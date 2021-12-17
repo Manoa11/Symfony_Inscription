@@ -1,5 +1,3 @@
-# Symfony_Inscription
-
 configurer 
 .env selon votre config dans phpMyAdmin
 importer le BD .sql
